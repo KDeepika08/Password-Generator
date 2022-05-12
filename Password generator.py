@@ -15,3 +15,4 @@ total = lower + upper + numbers + symbols
 password = ''.join(secrets.choice(total) for _ in range(length))
 
 print(password)
+
