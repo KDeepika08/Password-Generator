@@ -1,4 +1,4 @@
-# PASSWORD GENERATOR
+# Password Generator using Python
 
 We all use passwords on a daily basis to login to websites or even applications. Passwords are meant to keep the data safe that we upload on the Internet. 
 An easy password can be hacked easily and all the personal information can be misused. In order to prevent such things and keep the data safe, it is quite necessary
